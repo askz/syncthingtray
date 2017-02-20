@@ -105,7 +105,7 @@ The following Qt 5 modules are requried: core network gui widgets svg webenginew
    cd $SOURCES
    git clone https://github.com/Martchus/cpp-utilities.git
    git clone https://github.com/Martchus/qtutilities.git
-   git glone https://github.com/Martchus/syncthingtray.git
+   git clone https://github.com/Martchus/syncthingtray.git
    git clone https://github.com/Martchus/subdirs.git
    ```
 2. Build and install everything in one step:
@@ -148,3 +148,4 @@ can be added quite easily:
 4. Open the files with Qt Linguist to add translations. Qt Linguist is part of
    the [Qt Tools repository](http://code.qt.io/cgit/qt/qttools.git/) and its usage
    is [well documented](http://doc.qt.io/qt-5/linguist-translators.html).
+g
